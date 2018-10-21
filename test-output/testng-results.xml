@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26569" started-at="2018-10-21T17:13:04Z" finished-at="2018-10-21T17:13:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26569" started-at="2018-10-21T17:13:04Z" finished-at="2018-10-21T17:13:31Z">
+      <class name="demoPack.MercuryE2E">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demoPack.MercuryE2E@604ed9f0]" name="beforeTest" is-config="true" duration-ms="13805" started-at="2018-10-21T22:43:04Z" finished-at="2018-10-21T22:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demoPack.MercuryE2E@604ed9f0]" name="login" duration-ms="5451" started-at="2018-10-21T22:43:18Z" finished-at="2018-10-21T22:43:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="passngrDetails()[pri:0, instance:demoPack.MercuryE2E@604ed9f0]" name="passngrDetails" duration-ms="2430" started-at="2018-10-21T22:43:24Z" finished-at="2018-10-21T22:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passngrDetails -->
+        <test-method status="PASS" signature="ticketBooking()[pri:0, instance:demoPack.MercuryE2E@604ed9f0]" name="ticketBooking" duration-ms="2448" started-at="2018-10-21T22:43:26Z" finished-at="2018-10-21T22:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketBooking -->
+        <test-method status="PASS" signature="zBookingfinalPage()[pri:0, instance:demoPack.MercuryE2E@604ed9f0]" name="zBookingfinalPage" duration-ms="2380" started-at="2018-10-21T22:43:28Z" finished-at="2018-10-21T22:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zBookingfinalPage -->
+      </class> <!-- demoPack.MercuryE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
